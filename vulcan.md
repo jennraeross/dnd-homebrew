@@ -20,13 +20,13 @@ God of Fire and Smithery
 |     9th      |     *Creation, Flame Strike*     |
 
 ### Bonus Proficiencies
-When you adopt this Divine Domain at 1st level, you gain proficiency with heavy armor, smiths tools, and warhammers.
+When you adopt this Divine Domain at 1st level, you gain proficiency with heavy armor, martial weapons, and smiths tools.
 
 ### Bonus Cantrips
 Also at 1st level, you gain the *Green Flame Blade* and *Mending* cantrips if you don't already know them. For you, these cantrips counts as cleric cantrips.
 
-### Channel Divinity: *[Name]*
-At 2nd level, you gain this additional Channel Divinity option. 
+### Channel Divinity: *Forge of Creation*
+At 2nd level, you gain this additional Channel Divinity option. As a bonus action, a weapon or tool with which you have proficiency forms in your hand. On subsequent turns, you may use your bonus action to change the form of the weapon or tool. The created object disappears after a number of hours equal to your proficiency bonus.
 
 ### [6th Level Features]
 
