@@ -11,13 +11,13 @@ God of War
 |     17th     |              Heightened Bloodlust              |
 
 ##### Domain of Mars Spells
-| Cleric Level |   Spells   |
-| :----------: | :--------: |
-|     1st      | *Divine Favor, Bane* |
-|     3rd      | *Magic Weapon, Silence* |
-|     5th      | *Spirit Shroud, Dispel Magic* |
+| Cleric Level |             Spells              |
+| :----------: | :-----------------------------: |
+|     1st      |      *Divine Favor, Bane*       |
+|     3rd      |     *Magic Weapon, Silence*     |
+|     5th      |  *Spirit Shroud, Dispel Magic*  |
 |     7th      | *Guardian of Faith, Death Ward* |
-|     9th      | *Flame Strike, Holy Weapon* |
+|     9th      |   *Flame Strike, Holy Weapon*   |
 
 ### Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
