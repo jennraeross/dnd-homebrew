@@ -2,13 +2,13 @@
 Goddess of Wisdom, Law, Defense, and Strategic Warfare
 
 #### Domain of Minerva Features
-| Cleric Level |                      Features                       |
-| :----------: | :-------------------------------------------------: |
-|     1st      | Domain Spells, Bonus Proficiencies, Trained for War |
-|     2nd      |        Channel Divinity: *Strategic Insight*        |
-|     6th      |                 Press the Advantage                 |
-|     8th      |                    Divine Strike                    |
-|     17th     |             Fortune Favors the Prepared             |
+| Cleric Level |                       Features                       |
+| :----------: | :--------------------------------------------------: |
+|     1st      | Domain Spells, Bonus Proficiencies, Mind Over Matter |
+|     2nd      |        Channel Divinity: *Strategic Insight*         |
+|     6th      |                 Press the Advantage                  |
+|     8th      |                    Divine Strike                     |
+|     17th     |             Fortune Favors the Prepared              |
 
 ##### Domain of Minerva Spells
 | Cleric Level |                Spells                 |
@@ -22,7 +22,7 @@ Goddess of Wisdom, Law, Defense, and Strategic Warfare
 ### Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
-### Trained for War
+### Mind Over Matter
 Having been trained in the arts of war, you understand that more important than strength is how you use it. At 1st level, when you attack with a weapon you are proficient with, you can use your Wisdom modifier, instead of Strength or Dexterity, for the attack and damage rolls. You can use this ability a number of times equal to your cleric level, and regain all uses upon the completion of a short or long rest.
 
 ### Channel Divinity: *Strategic Insight*
