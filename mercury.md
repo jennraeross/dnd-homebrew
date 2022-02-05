@@ -22,8 +22,8 @@ God of Travelers, Messages, Thieves, and Luck
 ### Bonus Cantrips
 Upon taking this subclass at 1st level, you gain the *Booming Blade* and *Message* cantrips if you don't already know them. For you, these cantrips counts as cleric cantrips.
 
-### Fleet of Foot
-When you are neither incapacitated nor engaged in combat, your travel is eased by divine providence, permitting your party to travel 50% faster than they would otherwise.
+### Good Fortune
+When you fail a saving throw or miss an attack roll, you may roll a d4 and add it to the total, possibly changing the outcome. You may use this feature a number of times equal to your proficiency bonus and regain all uses on a long rest.
 
 ### Channel Divinity: *Escape Route*
 At 2nd level, you gain this additional Channel Divinity option. As a bonus action, you can verbally call upon divine power to escape your enemies. When you do so, you can teleport up to 30 feet to an unoccupied space that you can see.

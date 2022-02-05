@@ -2,13 +2,13 @@
 God of War
 
 #### Domain of Mars Features
-| Cleric Level |                    Features                    |
-| :----------: | :--------------------------------------------: |
-|     1st      | Domain Spells, One on One, Bonus Proficiencies |
-|     2nd      |      Channel Divinity: *Fury of the Gods*      |
-|     6th      |                   Bloodlust                    |
-|     8th      |                 Divine Strike                  |
-|     17th     |              Heightened Bloodlust              |
+| Cleric Level |                       Features                       |
+| :----------: | :--------------------------------------------------: |
+|     1st      | Domain Spells, Bonus Proficiencies, Matter Over Mind |
+|     2nd      |            Channel Divinity: *Bloodlust*             |
+|     6th      |                  Endless Bloodlust                   |
+|     8th      |                    Divine Strike                     |
+|     17th     |                 Heightened Bloodlust                 |
 
 ##### Domain of Mars Spells
 | Cleric Level |             Spells              |

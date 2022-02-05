@@ -29,7 +29,7 @@ Having been trained in the arts of war, you understand that more important than 
 At 2nd level, you gain this additional Channel Divinity option. You call upon divine aid (no action required), and are given understanding of how to turn your situation to your benefit. Your next weapon attack this turn is made with advantage.
 
 ### Press the Advantage
-Upon reaching 6th level, when you make a weapon attack with advantage, if it hits you may add your Wisdom modifier (minimum bonus of +1) to the damage roll.
+Upon reaching 6th level, when you make a weapon attack with advantage, if it hits you may make an additional weapon attack as a bonus action.
 
 ### Divine Strike
 At 8th level you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.

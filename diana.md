@@ -47,4 +47,5 @@ Starting at 6th level, your accuracy is sufficient to target crippling areas of 
 ### Divine Strike
 At 8th level you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 magical piercing damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
-### [17th Level Features]
+### Hunting Tactics
+As of 17th level, you have advantage on attack rolls against a creature if a creature summoned by either your Channel Divinity: *Hunting Companion* feature or the *Summon Beast* spell is within five feet of it and is not *incapacitated*.
