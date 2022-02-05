@@ -22,17 +22,19 @@ God of War
 ### Bonus Proficiencies
 At 1st level, you gain proficiency with martial weapons and heavy armor.
 
-### One on One
-At first level, when an opponent within 5 feet of you makes a ranged weapon attack, or makes a ranged spell attack, you can make a melee weapon attack against that opponent as a reaction.
+### Matter Over Mind
+At 1st level, when an creature within your reach casts a spell you can make a melee weapon attack against that creature as a reaction. If your attack hits, make a strength or dexterity check with a DC equal to 10 + the spell's level. On a success, the creature's spell fails and has no effect.
 
-### Channel Divinity: *Fury of the Gods*
-At 2nd level, you gain this additional Channel Divinity option. When you hit an opponent with a melee weapon attack, you may expend a use of your channel divinity and one of you spell slots. In addition to the normal attack damage, you deal 2d6 radiant damage for a first level spell slot, plus 1d6 for each spell level higher than first, to a maximum of 6d6.
+This ability can be used a number of times equal to your proficiency bonus, and you regain all uses on a long rest
 
-### Bloodlust
-Upon reaching 6th level, when a creature targets you with a weapon attack or spell, you may mark them. On your turn, you may make a melee weapon attack against a marked opponent as a bonus action. All marks you have placed fade away at the end of your turn.
+### Channel Divinity: *Bloodlust*
+At 2nd level, you gain this additional Channel Divinity option. As a bonus action, mark a creature within 30 feet for 1 minute. On subsequent turns, you can make a melee weapon attack against the marked creature as a bonus attack.
+
+### Endless Bloodlust
+At 6th level, your bloodlust is becomes difficult to quell. The time your mark lasts is increased to one hour. Additionally, if the target drops to 0 hitpoints before the mark fades, you can use a bonus action on subsequent turns to reapply it to another creature within 30 feet of you.
 
 ### Divine Strike
 At 8th level you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ### Heightened Bloodlust
-At 17th level, when you make a melee weapon attack against an opponent marked by your Bloodlust ability, you may add the damage of your Divine Strike, even if you have already used Divine Strike this turn, and even if it is not your turn. Furthermore, your marks no longer fade at the end of your turn, instead fading when you take a short or long rest.
+At 17th level, when you make a melee weapon attack against an opponent marked by your Bloodlust ability, you may add the damage of your Divine Strike, even if you have already used Divine Strike this turn, and even if it is not your turn.
