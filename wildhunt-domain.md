@@ -42,7 +42,7 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 At 2nd level you gain this additional Channel Divinity option. As an action, cast the *Find Familiar* spell, without material components. When you cast the spell in this way, the familiar must take the form of either a hawk or a mastiff, and it disappears after a number of hours equal to half your cleric level (rounded up).
 
 ### Unnerving Arrows
-Starting at 6th level, when you hit a creature with a weapon attack, you can force it to make a saving throw. On a failed save, it cannot willingly move closer to you until the beginning of your next turn.
+Starting at 6th level, when you hit a creature with a weapon attack, you can force it to make a wisdom saving throw. On a failed save, it cannot willingly move closer to you until the beginning of your next turn.
 
 ### Divine Strike
 Starting at 8th level, you learn to imbue your weapon's strikes with the power of the Hunt. Once per turn, when you hit a creature with a weapon attack, you can cause the attack to do an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
