@@ -8,7 +8,7 @@
 |      7th      | Armor of Fate                        |
 |     10th      | Legendary Weapon                     |
 |     15th      | Improved Armor of Fate               |
-|     18th      |                                      |
+|     18th      | Divine Intervention                  |
 
 ### Divine Presence
 
