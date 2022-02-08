@@ -6,31 +6,35 @@ Clerics of the Wildhunt thrill in contests of strength and wit, and seek opportu
 
 ##### Wildhunt Domain Features
 
-| Cleric Level |                      Features                      |
-| :----------: | :------------------------------------------------: |
+| Cleric Level | Features                                           |
+| :----------: | :------------------------------------------------- |
 |     1st      | Bonus Proficiencies, Domain Spells, Fighting Style |
-|     2nd      |       Channel Divinity: _Hunting Companion_        |
-|     6th      |                  Unnerving Arrows                  |
-|     8th      |                   Divine Strike                    |
-|     17th     |            Improved Unnatural Accuracy             |
-
-### Bonus Proficiencies
-
-When you adopt this Divine Domain at 1st level, you gain proficiency with martial weapons that have the _ranged_ or _thrown_ property.
+|     2nd      | Channel Divinity: _Hunting Companion_              |
+|     6th      | Unnerving Arrows                                   |
+|     8th      | Divine Strike                                      |
+|     17th     | Improved Unnatural Accuracy                        |
 
 ##### Wildhunt Domain Spells
 
-| Cleric Level |                    Spells                    |
-| :----------: | :------------------------------------------: |
-|     1st      |        _Entangle, Dissonant Whispers_        |
-|     3rd      |      _Summon Beast, Tasha's Mind Whip_       |
-|     5th      |             _Fear, Plant Growth_             |
+| Cleric Level | Spells                                       |
+| :----------: | :------------------------------------------- |
+|     1st      | _Entangle, Dissonant Whispers_               |
+|     3rd      | _Summon Beast, Tasha's Mind Whip_            |
+|     5th      | _Fear, Plant Growth_                         |
 |     7th      | _Conjure Woodland Beings, Phantasmal Killer_ |
-|     9th      |            _Swift Quiver, Awaken_            |
+|     9th      | _Swift Quiver, Awaken_                       |
+
+### Bonus Proficiencies
+
+_1st-level Wildhunt feature_
+
+You gain proficiency with martial weapons that have the _ranged_ or _thrown_ property.
 
 ### Fighting Style
 
-At 1st level, you adopt a particular style of fighting as your specialty. Choose one of the following options.
+_1st-level Wildhunt feature_
+
+You adopt a particular style of fighting as your specialty. Choose one of the following options.
 
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
@@ -46,16 +50,24 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 
 ### Channel Divinity: _Hunting Companion_
 
-At 2nd level you gain this additional Channel Divinity option. As an action, cast the _Find Familiar_ spell, without material components. When you cast the spell in this way, the familiar must take the form of either a hawk or a mastiff, and it disappears after a number of hours equal to half your cleric level (rounded up).
+_2nd-level Wildhunt feature_
+
+You gain this additional Channel Divinity option. As an action, cast the _Find Familiar_ spell, without material components. When you cast the spell in this way, the familiar must take the form of either a hawk or a mastiff, and it disappears after a number of hours equal to half your cleric level (rounded up).
 
 ### Unnerving Arrows
 
-Starting at 6th level, when you hit a creature with a weapon attack, you can force it to make a wisdom saving throw. On a failed save, it cannot willingly move closer to you until the beginning of your next turn.
+_6th-level Wildhunt feature_
+
+When you hit a creature with a weapon attack, you can force it to make a wisdom saving throw. On a failed save, it cannot willingly move closer to you until the beginning of your next turn.
 
 ### Divine Strike
 
-Starting at 8th level, you learn to imbue your weapon's strikes with the power of the Hunt. Once per turn, when you hit a creature with a weapon attack, you can cause the attack to do an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+_8th-level Wildhunt feature_
+
+You learn to imbue your weapon's strikes with the power of the Hunt. Once per turn, when you hit a creature with a weapon attack, you can cause the attack to do an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ### Improved Unnatural Accuracy
 
-At 17th level, when you make an attack with a weapon that has the _ranged_ or _thrown_ property, treat a roll of 19 or higher as a critical hit.
+_17th-level Wildhunt feature_
+
+When you make an attack with a weapon that has the _ranged_ or _thrown_ property, treat a roll of 19 or higher as a critical hit.

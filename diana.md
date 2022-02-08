@@ -4,31 +4,34 @@ Goddess of the Moon, the Hunt, and Wild Animals
 
 #### Domain of Diana Features
 
-| Cleric Level |                      Features                      |
-| :----------: | :------------------------------------------------: |
+| Cleric Level | Features                                           |
+| :----------: | :------------------------------------------------- |
 |     1st      | Domain Spells, Bonus Proficiencies, Fighting Style |
-|     2nd      |       Channel Divinity: _Hunting Companion_        |
-|     6th      |                   Hindering Shot                   |
-|     8th      |                   Divine Strike                    |
-|     17th     |                     [Features]                     |
+|     2nd      | Channel Divinity: _Hunting Companion_              |
+|     6th      | Hindering Shot                                     |
+|     8th      | Divine Strike                                      |
+|     17th     | Hunting Tactics                                    |
 
 ##### Domain of Diana Spells
 
-| Cleric Level |                 Spells                 |
-| :----------: | :------------------------------------: |
-|     1st      |   _Hunter's Mark, Ensnaring Strike_    |
-|     3rd      |    _Summon Beast, Enhance Ability_     |
-|     5th      |    _Meld into Stone, Plant Growth_     |
+| Cleric Level | Spells                                 |
+| :----------: | :------------------------------------- |
+|     1st      | _Hunter's Mark, Ensnaring Strike_      |
+|     3rd      | _Summon Beast, Enhance Ability_        |
+|     5th      | _Meld into Stone, Plant Growth_        |
 |     7th      | _Locate Creature, Freedom of Movement_ |
-|     9th      |         _Swift Quiver, Awaken_         |
+|     9th      | _Swift Quiver, Awaken_                 |
 
 ### Bonus Proficiencies
+_1st-level Diana feature_
 
-When you adopt this Divine Domain at 1st level, you gain proficiency with martial weapons that have the _ranged_ or _thrown_ property.
+When you adopt this Divine Domain, you gain proficiency with martial weapons that have the _ranged_ or _thrown_ property.
 
 ### Fighting Style
 
-At 1st level, you adopt a particular style of fighting as your specialty. Choose one of the following options.
+_1st-level Diana feature_
+
+You adopt a particular style of fighting as your specialty. Choose one of the following options.
 
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
@@ -44,19 +47,27 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 
 ### Channel Divinity: _Hunting Companion_
 
-At 2nd level you gain this additional Channel Divinity option. As an action, cast the _Find Familiar_ spell, without material components. When you cast the spell in this way, the familiar must take the form of either a hawk or a mastiff, and it disappears after a number of hours equal to half your cleric level (rounded up).
+_2nd-level Diana feature_
+
+You gain this additional Channel Divinity option. As an action, cast the _Find Familiar_ spell, without material components. When you cast the spell in this way, the familiar must take the form of either a hawk or a mastiff, and it disappears after a number of hours equal to half your cleric level (rounded up).
 
 ### Hindering Shot
 
-Starting at 6th level, your accuracy is sufficient to target crippling areas of the body. When you hit a creature with a weapon attack, you can choose to apply one of the following options:
+_6th-level Diana feature_
+
+Your accuracy is sufficient to target crippling areas of the body. When you hit a creature with a weapon attack, you can choose to apply one of the following options:
 
 - The target's movement speed is halved until the beginning of your next turn.
 - Checks to maintain concentration as a result of this attack are made at disadvantage.
 
 ### Divine Strike
 
-At 8th level you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 magical piercing damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+_8th-level Diana feature_
+
+You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 magical piercing damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ### Hunting Tactics
 
-As of 17th level, you have advantage on attack rolls against a creature if a creature summoned by either your Channel Divinity: _Hunting Companion_ feature or the _Summon Beast_ spell is within five feet of it and is not _incapacitated_.
+_17th-level Diana feature_
+
+You have advantage on attack rolls against a creature if a creature summoned by either your Channel Divinity: _Hunting Companion_ feature or the _Summon Beast_ spell is within five feet of it and is not _incapacitated_.
