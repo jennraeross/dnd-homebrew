@@ -1,5 +1,6 @@
 ## Domain of Jupiter
 
+<<<<<<< HEAD
 God of Sky and Thunder
 
 #### Domain of Jupiter Features
@@ -13,6 +14,29 @@ God of Sky and Thunder
 |     17th     |                  [Features]                   |
 
 ##### Domain of Jupiter Spells
+=======
+[Description]
+
+#### Domain of Jupiter Features
+
+| Cleric Level |                Features                |
+| :----------: | :------------------------------------: |
+|     1st      |               [Features]               |
+|     2nd      |       Channel Divinity: _[Name]_       |
+|     6th      |               [Features]               |
+|     8th      | Divine Strike [OR] Potent Spellcasting |
+|     17th     |               [Features]               |
+
+##### Domain of Jupiter Spells
+
+| Cleric Level |   Spells   |
+| :----------: | :--------: |
+|     1st      | _[Spells]_ |
+|     3rd      | _[Spells]_ |
+|     5th      | _[Spells]_ |
+|     7th      | _[Spells]_ |
+|     9th      | _[Spells]_ |
+>>>>>>> 5a45cf5a14d7190ae9d629b6db5ba0efe5760dea
 
 | Cleric Level |              Spells               |
 | :----------: | :-------------------------------: |
@@ -22,6 +46,7 @@ God of Sky and Thunder
 |     7th      |     _Storm Sphere, Ice Storm_     |
 |     9th      | _Destructive Wave, Control Winds_ |
 
+<<<<<<< HEAD
 ### Bonus Cantrips
 
 _1st-level Jupiter feature_
@@ -45,11 +70,30 @@ You gain this additional Channel Divinity option.
 _6th-level Jupiter feature_
 
 ### Divine Strike
+=======
+### Channel Divinity: _[Name]_
+
+At 2nd level, you gain this additional Channel Divinity option.
+
+### [6th Level Features]
+
+### Divine Strike
+
+At 8th level you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 [Type] damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+>>>>>>> 5a45cf5a14d7190ae9d629b6db5ba0efe5760dea
 
 _8th-level Jupiter feature_
 
+<<<<<<< HEAD
 You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 lightning damage to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 ### [17th Level Features]
 
 _17th-level Jupiter feature_
+=======
+### Potent Spellcasting
+
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+### [17th Level Features]
+>>>>>>> 5a45cf5a14d7190ae9d629b6db5ba0efe5760dea
