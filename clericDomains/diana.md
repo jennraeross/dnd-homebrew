@@ -49,7 +49,33 @@ In addition, when you hit with a ranged attack using a thrown weapon, you gain a
 
 _2nd-level Diana feature_
 
-You gain this additional Channel Divinity option. As an action, cast the _Find Familiar_ spell, without material components. When you cast the spell in this way, the familiar must take the form of either a hawk or a mastiff, and it disappears after a number of hours equal to half your cleric level (rounded up).
+You gain this additional Channel Divinity option. As an action, you summon a wild spirit in the form of a wolf. It is friendly to you and your companions, and obeys your commands. See the creature's game statistics in the Lycan Spirit stat block, which uses your proficiency bonus (PB) in several places. In combat, the Wolf shares your initiative count, but takes its turn immediately after yours. It can move and use reactions on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the Wolf can take any action of its choice. If the Wolf is reduced to zero hitpoints, it vanishes back to whence it came. The wolf also vanishes after a number of hours equal to half your cleric level (rounded up).
+
+___
+> ## Lycan Spirit
+> Medium Beast, Unaligned
+> ___
+> - **Armor Class** 11 + PB (Natural Armor)
+> - **Hit Points** 5 + 5 times your Cleric level (The Spirit has a number of hit dice [d8's] equal to your Cleric Level)
+> - **Speed** 40ft
+> ___
+>|STR|DEX|CON|INT|WIS|CHA|	
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|15 (+2)|12 (+1)|3 (-4)|12 (+1)|6 (-2)|
+>___
+> - **Skills** Perception +3, Stealth +4
+> - **Senses** Passive Perception 13
+> - **Languages** Understands the Languages you speak
+> ___
+> ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+>
+> ***Pack Tactices.*** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ### Actions
+> ***Multiattack.*** The wolf makes a number of attacks equal to half your PB (rounded down)
+>
+> ***Bite.*** *Melee Weapon Attack:* 2 + PB to hit, reach 5ft., one target. *Hit* 1d8 + 2 + PB piercing damage. 
+> ### Reaction
+> ***Pin Down.*** The wolf grants advantage to one ranged weapon attack roll against a creature it can see within 5 feet of it.
 
 ### Hindering Shot
 
