@@ -1,17 +1,17 @@
 ## Circle of Isolation
 
 #### Circle of Isolation Features
-| Druid Level | Features                       |
-|:-----------:|:-------------------------------|
-|     2nd     |  Woodcraft, Wild Retribution   |
-|     6th     | Protector of the Natural Order |
-|     10th    |                                |
-|     14th    |                                |
+| Druid Level | Features                              |
+|:-----------:|:--------------------------------------|
+|     2nd     | Weapons of the Wood, Wild Retribution |
+|     6th     | Protector of the Natural Order        |
+|     10th    |                                       |
+|     14th    |                                       |
 
-### Naturally Crafty
+### Weapons of the Wood
 *2nd-level Isolation feature*
 
-You gain proficiency in simple weapons, and know how to make non-metal equivalents of them from natural materials. Over the course of a short rest, you may create one simple weapon, or 10 pieces of ammunition.
+You gain proficiency in simple weapons. As a bonus action, you can create one weapon you have proficiency with, by growing an appropriately shaped piece of unnaturally strong wood. If the weapon grown has the ammuntion property, you also create 10 pieces of ammunition. A weapon grown this way cannot be sold and will break after 10 minutes have passed. 
 
 ### Wild Retribution
 *2nd-level Isolation feature*
@@ -27,4 +27,14 @@ You regain the expended dice when you finish a long rest.
 
 You've been trained to protect the wild places from all those who would subsume them. When making a weapon attack against a humanoid, undead, or fiend, you may add your wisdom modifier to the attack roll.
 
-Additionally, if you add your Wild Retribution dice to an attack made in beast form, said attack counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Additionally, if you add your Wild Retribution dice to a weapon attack made in beast form, said attack counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+### Wildborn
+*10th-level Isolation feature*
+
+You've spent all your life in wild places, and understand them fully. You have expertise in the Nature and Survival skills. Additionally, you are not slowed by dense or grasping plants, even if they are magical.
+
+### Wellspring of Retribution
+*14th-level Isolation feature*
+
+When you roll initiative, gain additional Wild Retribution dice equal to your proficiency bonus.
