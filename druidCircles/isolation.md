@@ -5,8 +5,8 @@
 |:-----------:|:--------------------------------------|
 |     2nd     | Weapons of the Wood, Wild Retribution |
 |     6th     | Protector of the Natural Order        |
-|     10th    |                                       |
-|     14th    |                                       |
+|     10th    | Wildborn                              |
+|     14th    | Wellspring of Retribution             |
 
 ### Weapons of the Wood
 *2nd-level Isolation feature*
