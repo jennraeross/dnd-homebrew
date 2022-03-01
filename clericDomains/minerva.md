@@ -7,7 +7,7 @@ Goddess of Wisdom, Law, Defense, and Strategic Warfare
 | Cleric Level | Features                                             |
 | :----------: | :--------------------------------------------------- |
 |     1st      | Domain Spells, Bonus Proficiencies, Mind Over Matter |
-|     2nd      | Channel Divinity: _Strategic Insight_                |
+|     2nd      | Channel Divinity: _Focus Fire_                       |
 |     6th      | Press the Advantage                                  |
 |     8th      | Divine Strike                                        |
 |     17th     | Fortune Favors the Prepared                          |
@@ -34,17 +34,19 @@ _1st-level Minerva feature_
 
 Having been trained in the arts of war, you understand that more important than strength is how you use it. When you attack with a weapon you are proficient with, you can use your Wisdom modifier, instead of Strength or Dexterity, for the attack and damage rolls. You can use this ability a number of times equal to your cleric level, and regain all uses upon the completion of a short or long rest.
 
-### Channel Divinity: _Strategic Insight_
+### Channel Divinity: _Focus Fire_
 
 _2nd-level Minerva feature_
 
-You gain this additional Channel Divinity option. You call upon divine aid (no action required), and are given understanding of how to turn your situation to your benefit. Your next weapon attack this turn is made with advantage.
+You gain this additional Channel Divinity option. As a bonus action, you point at a creature within 60ft of you and force them to make a Dexterity saving throw. If they fail, they are wreathed in golden light until the end of your next turn. Any attack roll against the affected creature has advantage if the attacker can see it, and the affected creature can't benefit from being invisible.
 
 ### Press the Advantage
 
 _6th-level Minerva feature_
 
-When you make a weapon attack with advantage, if it hits you may make an additional weapon attack as a bonus action.
+When have advantage, you may forgoe it's usual effects. If you do so, you may make two attacks with your attack action.
+
+Additionally, you can now use your Mind Over Matter feature an unlimited number of times
 
 ### Divine Strike
 
