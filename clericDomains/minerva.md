@@ -26,13 +26,23 @@ Goddess of Wisdom, Law, Defense, and Strategic Warfare
 
 _1st-level Minerva feature_
 
-You gain proficiency with martial weapons and heavy armor.
+You gain proficiency with weavers tools, potters tools, martial weapons and heavy armor.
 
-### Mind Over Matter
+### Master of Crafts
 
 _1st-level Minerva feature_
 
-Having been trained in the arts of war, you understand that more important than strength is how you use it. When you attack with a weapon you are proficient with, you can use your Wisdom modifier, instead of Strength or Dexterity, for the attack and damage rolls. You can use this ability a number of times equal to your cleric level, and regain all uses upon the completion of a short or long rest.
+Whenever you finish a long rest, you may create a piece of craftsmanship and imbue it with divine power, turning it into a magic item, from the items detailed below. If the item has a level requirement, it can only be created if you have a cleric level equal or greater than the requirement. If the item requires attunement, you can attune yourself to it the instant you imbue the item. If you decide to attune to the item later, you must do so using the normal process for attunement. You may attune to any item created with this feature, regardless of race or class restrictions.
+
+Said item remains indefinitely, but if you die, the divine power within fades, leaving it a normal item with no magical properties.
+
+You can only have one item created in this manner at a time. If you attempt to create an item while another item created by this feature exists, the enchantment on the other item ends, rendering it a normal item without any inherent magical properties.
+
+| Cleric Level | Items Replicable |
+| :----------- | :--------------- |
+| 1st          | Bag of Bounty, Pot of Awakening, Glamerweave    |
+| 6th          | Alchemy Jug, Bag of Holding, Cloak of Elvenkind |
+| 14th         | Cloak of Protection, Mantle of Spell Resistance, Carpet of Flying |
 
 ### Channel Divinity: _Focus Fire_
 
@@ -44,9 +54,7 @@ You gain this additional Channel Divinity option. As a bonus action, you point a
 
 _6th-level Minerva feature_
 
-When have advantage, you may forgoe it's usual effects. If you do so, you may make two attacks with your attack action.
-
-Additionally, you can now use your Mind Over Matter feature an unlimited number of times
+When you have advantage, you may forgoe it's usual effects. If you do so, you may make two attacks instead.
 
 ### Divine Strike
 
