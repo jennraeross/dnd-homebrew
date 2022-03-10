@@ -54,7 +54,11 @@ You gain this additional Channel Divinity option. As a bonus action, you point a
 
 _6th-level Minerva feature_
 
+<<<<<<< HEAD
+When you take the attack action with advantage, you may forgoe the usual effects of advantage. If you do, you may make two weapon attacks instead.
+=======
 When you have advantage, you may forgoe it's usual effects. If you do so, you may make two attacks instead.
+>>>>>>> 418ee6e5bb385d76e6518811a0fd018dd1603639
 
 ### Divine Strike
 
