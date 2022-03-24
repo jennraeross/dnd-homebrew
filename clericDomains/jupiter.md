@@ -32,7 +32,7 @@ You gain the _Shocking Grasp_ and _Booming Blade_ cantrips if you don't already 
 
 _1st-level Jupiter feature_
 
-You can manifest the power of Jupiter as a crackling spear of lightning. Whenever you take the Attack action, you can manifest a spear from your free hand and make the attack with that spear. This magic spear is a simple melee weapon worth 1 sp with the versatile and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals lightning damage equal to 1d6 plus the ability modifier you used for the attack roll. If making a melee attack with both hands, instead use a d8. The spear vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
+You can manifest the power of Jupiter as a crackling spear of lightning. Whenever you make an attack, you can manifest a spear in your free hand and make the attack with that spear. This magic spear is a simple melee weapon worth 1 sp with the versatile and thrown properties. It has a normal range of 60 feet and no long range, and on a hit, it deals lightning damage equal to 1d6 plus the ability modifier you used for the attack roll. If making a melee attack with both hands, instead use a d8. The spear vanishes immediately after it hits or misses its target, and it leaves no mark on its target if it deals damage.
 
 ### Channel Divinity: _Jetstream_
 
