@@ -45,7 +45,7 @@ You gain this additional Channel Divinity option. Invoking the power of the Hear
 
 _6th-level Vesta feature_
 
-When casting a spell that restores a creature's hitpoints or removes a negative condition with a material component that has a specified cost, you may reduce the cost of the component by 25gp for every level you have in this class. Once you use this ability, it may not be used again until you complete a long rest.
+When casting a spell that restores a creature's hitpoints or removes a negative condition with a material component that has a specified cost, you may reduce the cost of the component by 25gp for every level you have in this class. If this would reduce the cost to 0gp, you may treat the spell as if it has no material component. Once you use this ability, it may not be used again until you complete a long rest.
 
 ### Potent Spellcasting
 
