@@ -7,10 +7,10 @@ God of Wine, Revelry, and Frenzy
 | Cleric Level | Features                                            |
 | :----------: | :-------------------------------------------------- |
 |     1st      | Domain Spells, Bonus Cantrip, Drunken Functionality |
-|     2nd      | Channel Divinity: _Festive Madness_                          |
-|     6th      | Life of the Party                                          |
+|     2nd      | Channel Divinity: _Festive Madness_                 |
+|     6th      | Life of the Party                                   |
 |     8th      | Potent Spellcasting                                 |
-|     17th     | [Features]                                          |
+|     17th     | Avatar of Drunkenness                               |
 
 ##### Domain of Bacchus Spells
 
@@ -44,9 +44,9 @@ You gain this additional Channel Divinity option. As an action, you may cause a 
 
 _6th-level Bacchus feature_
 
-At 6th level, your extensive exposure to festivities has given you a particular way with people. Whenever you make a Charisma (Persuasion) or Charisma (Deception) check, you may use your Wisdom modifier instead.
+At 6th level, your extensive exposure to festivities has given you a particular way with people. Whenever you make a Charisma (Persuasion) or Charisma (Performance) check, you may use your Wisdom modifier instead.
 
-Additionally, you gain proficiency in Charisma saving throws, and one of either Persuasion or Deception, if you do not already have it.
+Additionally, you gain proficiency in Persuasion and Performance, if you do not already have them, and expertise in them while you have at least one level of exhaustion due to alcohol.
 
 ### Potent Spellcasting
 
@@ -54,6 +54,10 @@ _8th-level Bacchus feature_
 
 You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-### [17th Level Features]
+### Avatar of Drunkenness
 
 _17th-level Bacchus feature_
+
+You are no longer subject to any of the effects of the poisoned condition, or the negative effects of exhaustion caused by poison or alcohol. As long as you have at least one level of exhaustion due to alcohol, you may add half your proficiency bonus to all ability checks with which you do not already have proficiency.
+
+You may cast the spell _Glibness_ without using a spell slot. When cast this way, instead of a verbal component, the spell uses the material component of a bottle of wine worth at least 5gp, which the spell consumes. You may not cast this way again until you complete a long rest.
