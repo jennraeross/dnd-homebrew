@@ -7,8 +7,8 @@ God of Wine, Revelry, and Frenzy
 | Cleric Level | Features                                            |
 | :----------: | :-------------------------------------------------- |
 |     1st      | Domain Spells, Bonus Cantrip, Drunken Functionality |
-|     2nd      | Channel Divinity: _[Name]_                          |
-|     6th      | [Features]                                          |
+|     2nd      | Channel Divinity: _Festive Madness_                          |
+|     6th      | Life of the Party                                          |
 |     8th      | Potent Spellcasting                                 |
 |     17th     | [Features]                                          |
 
@@ -32,17 +32,21 @@ You gain the _Friends_ cantrip if you don't already know it. For you, this cantr
 
 _1st-level Bacchus feature_
 
-Clerics of Bacchus have resistance to poison and advantage on saves against the poisoned condition. Furthermore, drunkenness has no effect on your attack rolls or ability checks.
+Clerics of Bacchus have resistance to poison and advantage on saves against the poisoned condition. Furthermore, exhaustion no longer gives you disadvantage on ability checks.
 
-### Channel Divinity: _[Name]_
+### Channel Divinity: _Festive Madness_
 
 _2nd-level Bacchus feature_
 
-You gain this additional Channel Divinity option.
+You gain this additional Channel Divinity option. As an action, you may cause a number of creatures up to your Wisdom modifier within 60 ft of you to make an Intelligence saving throw. On a failure, a creature targeted has disadvantage on ability checks and attack rolls. They may repeat the save at the end of each of their turns, ending the effect on a success.
 
-### [6th Level Features]
+### Life of the Party
 
 _6th-level Bacchus feature_
+
+At 6th level, your extensive exposure to festivities has given you a particular way with people. Whenever you make a Charisma (Persuasion) or Charisma (Deception) check, you may use your Wisdom modifier instead.
+
+Additionally, you gain proficiency in Charisma saving throws, and one of either Persuasion or Deception, if you do not already have it.
 
 ### Potent Spellcasting
 
