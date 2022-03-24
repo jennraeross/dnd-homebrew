@@ -38,10 +38,10 @@ Said item remains indefinitely, but if you die, the divine power within fades, l
 
 You can only have one item created in this manner at a time. If you attempt to create an item while another item created by this feature exists, the enchantment on the other item ends, rendering it a normal item without any inherent magical properties.
 
-| Cleric Level | Items Replicable |
-| :----------- | :--------------- |
-| 1st          | Bag of Bounty, Pot of Awakening, Glamerweave    |
-| 6th          | Alchemy Jug, Bag of Holding, Cloak of Elvenkind |
+| Cleric Level | Items Replicable                                                  |
+| :----------- | :---------------------------------------------------------------- |
+| 1st          | Bag of Bounty, Pot of Awakening, Glamerweave                      |
+| 6th          | Alchemy Jug, Bag of Holding, Cloak of Elvenkind                   |
 | 14th         | Cloak of Protection, Mantle of Spell Resistance, Carpet of Flying |
 
 ### Channel Divinity: _Focus Fire_
@@ -58,7 +58,8 @@ _6th-level Minerva feature_
 When you take the attack action with advantage, you may forgoe the usual effects of advantage. If you do, you may make two weapon attacks instead.
 =======
 When you have advantage, you may forgoe it's usual effects. If you do so, you may make two attacks instead.
->>>>>>> 418ee6e5bb385d76e6518811a0fd018dd1603639
+
+> > > > > > > 418ee6e5bb385d76e6518811a0fd018dd1603639
 
 ### Divine Strike
 
