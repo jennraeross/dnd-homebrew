@@ -38,7 +38,7 @@ Clerics of Bacchus have resistance to poison and advantage on saves against the 
 
 _2nd-level Bacchus feature_
 
-You gain this additional Channel Divinity option. As an action, you may cause a number of creatures up to your Wisdom modifier within 60 ft of you to make an Intelligence saving throw. On a failure, a creature targeted has disadvantage on ability checks and attack rolls. They may repeat the save at the end of each of their turns, ending the effect on a success.
+You gain this additional Channel Divinity option. As an action, you may cause a number of creatures up to your Wisdom modifier within 60 ft of you to make a Wisdomß saving throw. On a failure, a creature targeted has disadvantage on ability checks and attack rolls. They may repeat the save at the end of each of their turns, ending the effect on a success.
 
 ### Life of the Party
 
