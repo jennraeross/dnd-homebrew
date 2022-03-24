@@ -1,30 +1,38 @@
 ## Domain of Apollo
 
-[Description]
+God of Healing and Prophecy
 
 #### Domain of Apollo Features
 
 | Cleric Level | Features                               |
 | :----------: | :------------------------------------- |
-|     1st      | [Features]                             |
+|     1st      | Domain Spells                             |
 |     2nd      | Channel Divinity: _[Name]_             |
 |     6th      | [Features]                             |
-|     8th      | Divine Strike [OR] Potent Spellcasting |
+|     8th      | Potent Spellcasting |
 |     17th     | [Features]                             |
 
 ##### Domain of Apollo Spells
 
-| Cleric Level | Spells     |
-| :----------: | :--------- |
-|     1st      | _[Spells]_ |
-|     3rd      | _[Spells]_ |
-|     5th      | _[Spells]_ |
-|     7th      | _[Spells]_ |
-|     9th      | _[Spells]_ |
+| Cleric Level | Spells                             |
+| :----------: | :--------------------------------- |
+|     1st      | _Guidance, Identify, Healing Word_           |
+|     3rd      | _Augury, Lesser Restoration_       |
+|     5th      | _Clairvoyance, Revivify_           |
+|     7th      | _Divination, Death Ward_           |
+|     9th      | _Legend Lore, Greater Restoration_ |
 
-### [1st Level Features]
+### Bonus Cantrip
 
 _1st-level Apollo feature_
+
+You gain the _Guidance_ cantrip, if you don't already know it.
+
+### Oracle of Apollo
+
+_1st-level Apollo feature_
+
+When you cast a Divination spell as a Ritual, you may extend the casting time to one hour. If you do so, you may ignore the spell's material components.
 
 ### Channel Divinity: _[Name]_
 
@@ -35,14 +43,6 @@ You gain this additional Channel Divinity option.
 ### [6th Level Features]
 
 _6th-level Apollo feature_
-
-### Divine Strike
-
-_8th-level Apollo feature_
-
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 [Type] damage to the target. When you reach 14th level, the extra damage increases to 2d8.
-
-[OR]
 
 ### Potent Spellcasting
 
