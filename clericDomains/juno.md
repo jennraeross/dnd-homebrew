@@ -1,30 +1,32 @@
 ## Domain of Juno
 
-[Description]
+Goddess of Marriage, Beginnings, and Childbirth
 
 #### Domain of Juno Features
 
-| Cleric Level | Features                               |
-| :----------: | :------------------------------------- |
-|     1st      | [Features]                             |
-|     2nd      | Channel Divinity: _[Name]_             |
-|     6th      | [Features]                             |
-|     8th      | Divine Strike [OR] Potent Spellcasting |
-|     17th     | [Features]                             |
+| Cleric Level | Features                          |
+| :----------: | :-------------------------------- |
+|     1st      | Domain Spells, Marriage Officiant |
+|     2nd      | Channel Divinity: _[Name]_        |
+|     6th      | [Features]                        |
+|     8th      | Potent Spellcasting               |
+|     17th     | [Features]                        |
 
 ##### Domain of Juno Spells
 
-| Cleric Level | Spells     |
-| :----------: | :--------- |
-|     1st      | _[Spells]_ |
-|     3rd      | _[Spells]_ |
-|     5th      | _[Spells]_ |
-|     7th      | _[Spells]_ |
-|     9th      | _[Spells]_ |
+| Cleric Level | Spells                           |
+| :----------: | :------------------------------- |
+|     1st      | _Ceremony, Bless_                |
+|     3rd      | _Warding Bond, Zone of Truth_    |
+|     5th      | _Beacon of Hope, Remove Curse_   |
+|     7th      | _Aura of Purity, Faithful Hound_ |
+|     9th      | _Commune, Telepathic Bond_       |
 
-### [1st Level Features]
+### Marriage Officiant
 
 _1st-level Juno feature_
+
+As a cleric of the Goddess of Marriage and Beginnings, casting the spell _Ceremony_ requires no material components, except for in the making of Holy Water. Furthermore, given Juno's favor towards commitment, you may perform the wedding rite for a couple who have gone at least a year since their last wedding rite and have never been divorced, as a renewal of their wedding vows. This provides the same benefit as the original wedding rite.
 
 ### Channel Divinity: _[Name]_
 
@@ -35,14 +37,6 @@ You gain this additional Channel Divinity option.
 ### [6th Level Features]
 
 _6th-level Juno feature_
-
-### Divine Strike
-
-_8th-level Juno feature_
-
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 [Type] damage to the target. When you reach 14th level, the extra damage increases to 2d8.
-
-[OR]
 
 ### Potent Spellcasting
 

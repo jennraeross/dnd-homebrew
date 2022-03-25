@@ -1,48 +1,46 @@
 ## Domain of Ceres
 
-[Description]
+Goddess of Agriculture, Grain, and Fertility
 
 #### Domain of Ceres Features
 
-| Cleric Level | Features                               |
-| :----------: | :------------------------------------- |
-|     1st      | [Features]                             |
-|     2nd      | Channel Divinity: _[Name]_             |
-|     6th      | [Features]                             |
-|     8th      | Divine Strike [OR] Potent Spellcasting |
-|     17th     | [Features]                             |
+| Cleric Level | Features                                           |
+| :----------: | :------------------------------------------------- |
+|     1st      | Domain Spells, Bonus Cantrips, Bonus Proficiencies |
+|     2nd      | Channel Divinity: _Summon Rain_                    |
+|     6th      | [Features]                                         |
+|     8th      | Potent Spellcasting                                |
+|     17th     | [Features]                                         |
 
 ##### Domain of Ceres Spells
 
-| Cleric Level | Spells     |
-| :----------: | :--------- |
-|     1st      | _[Spells]_ |
-|     3rd      | _[Spells]_ |
-|     5th      | _[Spells]_ |
-|     7th      | _[Spells]_ |
-|     9th      | _[Spells]_ |
+| Cleric Level | Spells                                |
+| :----------: | :------------------------------------ |
+|     1st      | _Goodberry, Create or Destroy Water_  |
+|     3rd      | _Spike Growth, Earthbind_             |
+|     5th      | _Speak with Plants, Plant Growth_     |
+|     7th      | _Control Water, Stone Shape_          |
+|     9th      | _Commune with Nature, Transmute Rock_ |
 
-### [1st Level Features]
+### Bonus Cantrips
 
 _1st-level Ceres feature_
 
-### Channel Divinity: _[Name]_
+Upon taking this subclass, you gain the _Mold Earth_ and _Druidcraft_ cantrips if you do not already know them. For you, these cantrips count as cleric cantrips.
+
+### Bonus Proficiencies
+
+You gain proficiency with Cook's Utensils, Herbalism Kits, Nature, and Animal Handling if you do not already have them.
+
+### Channel Divinity: _Summon Rain_
 
 _2nd-level Ceres feature_
 
-You gain this additional Channel Divinity option.
+You gain this additional Channel Divinity option. As an action, you put forth your holy symbol and call down a light rain from the heavens, which covers a 100ft radius originating from where you stand at the time the ability is activated., and lasts 10 minutes. Within the rain, perception checks are made at disadvantage, and open flames are extinguished. Furthermore, loose earth in the area becomes difficult terrain, as it turns to slick mud. This ability fails if used indoors or underground.
 
 ### [6th Level Features]
 
 _6th-level Ceres feature_
-
-### Divine Strike
-
-_8th-level Ceres feature_
-
-You gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 [Type] damage to the target. When you reach 14th level, the extra damage increases to 2d8.
-
-[OR]
 
 ### Potent Spellcasting
 
