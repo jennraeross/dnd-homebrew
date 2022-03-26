@@ -28,6 +28,12 @@ _1st-level Juno feature_
 
 As a cleric of the Goddess of Marriage and Beginnings, casting the spell _Ceremony_ requires no material components, except for in the making of Holy Water. Furthermore, given Juno's favor towards commitment, you may perform the wedding rite for a couple who have gone at least a year since their last wedding rite and have never been divorced, as a renewal of their wedding vows. This provides the same benefit as the original wedding rite.
 
+### Ties that Bind
+
+_1st-level Juno feature_
+
+When you cast a cleric cantrip with a range of self, you may extend the spell's effect to one of your allies. When you do so, any reference to *your turn* applies on their turn for them. You gain the _Blade Ward_ and _True Strike_ cantrips if you don't already know them, and they count as cleric cantrips for you.
+
 ### Channel Divinity: _[Name]_
 
 _2nd-level Juno feature_
