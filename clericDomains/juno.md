@@ -32,7 +32,7 @@ As a cleric of the Goddess of Marriage and Beginnings, casting the spell _Ceremo
 
 _1st-level Juno feature_
 
-When you cast a cleric cantrip with a range of self or touch, you may extend the spell's effect to one of your allies. When you do so, any reference to *your turn* applies on their turn for them. You gain the _Blade Ward_ and _True Strike_ cantrips if you don't already know them, and they count as cleric cantrips for you.
+When you cast a cleric cantrip with a range of self or touch, you may extend the spell's effect to one of your allies within 60 ft of you. When you do so, any reference to *your turn* applies on their turn for them. You gain the _Blade Ward_ and _True Strike_ cantrips if you don't already know them, and they count as cleric cantrips for you.
 
 ### Channel Divinity: _[Name]_
 
