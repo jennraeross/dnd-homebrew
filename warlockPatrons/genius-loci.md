@@ -26,8 +26,14 @@ When you deal force or necrotic damage, you may choose to deal one of fire, cold
 
 Additionally, whenever you learn a warlock cantrip, you can choose it from the warlock spell list, or from the following spells: _Control Flames, Gust, Mold Earth, Shape Water_. These cantrips are warlock cantrips for you.
 
-### 6th level feature
+### Harmonious Existence
+_6th-level Genius Locus feature_
 
-### 10th level feature
+You may cast any ritual spell from the Druid spell list as a ritual, as long as you have the ability to cast spells of that level. These spells may not be cast with your pact magic spell slots, and do not count against your spells known.
+
+### Servant of the Land
+_10th-level Genius Locus feature_
+
+You gain expertise in Survival and Nature.
 
 ### 14th level feature
