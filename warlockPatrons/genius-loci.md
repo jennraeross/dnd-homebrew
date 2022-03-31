@@ -1,13 +1,13 @@
-## The Genius Locus
+## Otherworldly Patron: The Genius Locus
 
 #### Genius Locus Features
 
 | Warlock Level | Features |
 |:-------------:|:-------- |
-| 1st | |
-| 6th | |
-| 10th | |
-| 14th | |
+| 1st  | _Expanded Spells, Elemental Fury_ |
+| 6th  | _Natural Rites_ |
+| 10th | _Master the Elements_ |
+| 14th | _Earthly Aid_ |
 
 #### Genius Locus Expanded Spells
 
@@ -22,18 +22,21 @@
 ### Elemental Fury
 _1st-level Genius Locus feature_
 
-When you deal force or necrotic damage, you may choose to deal one of fire, cold, or lightning instead.
+When you deal force or necrotic damage, you can choose to deal fire, cold, or lightning damage instead.
 
 Additionally, whenever you learn a warlock cantrip, you can choose it from the warlock spell list, or from the following spells: _Control Flames, Gust, Mold Earth, Shape Water_. These cantrips are warlock cantrips for you.
 
-### Harmonious Existence
+### Natural Rites
 _6th-level Genius Locus feature_
 
-You may cast any ritual spell from the Druid spell list as a ritual, as long as you have the ability to cast spells of that level. These spells may not be cast with your pact magic spell slots, and do not count against your spells known.
+At the end of a long rest, you can prepare a number of spells from the Druid spell list that have the ritual tag equal to your proficiency bonus. You can't cast these spells except as rituals. This feature does not give you the ability to cast warlock spells with the ritual tag as rituals.
 
-### Servant of the Land
+### Master the Elements
 _10th-level Genius Locus feature_
 
-You gain expertise in Survival and Nature.
+You learn two of the cantrips granted by _Elemental Fury_. If you already know more than two of those cantrips you can choose cantrips from the warlock spell list instead.
 
-### 14th level feature
+### Earthly Aid
+_14th-level Genius Locus feature_
+
+Your friendship with the spirits of the land has grown to the point that they will directly give you aid. Once per long rest, you may cast _Druid Grove, Transport via Plants,_ or _Wall of Thorns_.
