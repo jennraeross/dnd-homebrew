@@ -39,4 +39,4 @@ You learn two of the cantrips granted by _Elemental Fury_. If you already know m
 ### Earthly Aid
 _14th-level Genius Locus feature_
 
-Your friendship with the spirits of the land has grown to the point that they will directly give you aid. Once per long rest, you may cast _Druid Grove, Transport via Plants,_ or _Wall of Thorns_.
+Your friendship with the spirits of the land has grown to the point that they will directly give you aid. Once per long rest, you can cast _Druid Grove, Transport via Plants,_ or _Wall of Thorns_. You can cast one of these spells again by expending one of your _Mystic Arcanum_ uses.
