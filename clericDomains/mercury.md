@@ -22,11 +22,11 @@ God of Travelers, Messages, Thieves, and Luck
 |     7th      | _Freedom of Movement, Secret Chest_       |
 |     9th      | _Steel Wind Strike, Teleportation Circle_ |
 
-### Bonus Cantrips
+### Godspeed
 
-_1st-level Mercury feature_
+_1st-level Mercury Feature_
 
-Upon taking this subclass, you gain the _Booming Blade_ and _Message_ cantrips if you don't already know them. For you, these cantrips counts as cleric cantrips.
+When you take this  domain at 1st level, you gain proficiency in Acrobatics and Sleight of Hannd.
 
 ### Good Fortune
 
@@ -40,11 +40,11 @@ _2nd-level Mercury feature_
 
 You gain this additional Channel Divinity option. As a bonus action, you can verbally call upon divine power to escape your enemies. When you do so, you can teleport up to 30 feet to an unoccupied space that you can see.
 
-### Swift Cantrip
+### Swift Reflexes
 
 _6th-level Mercury feature_
 
-You can use a weapon with the _light_ property as a spellcasting focus for your cleric spells. Additionally, if you use your action to cast a cleric cantrip while dual wielding, you can make an offhand attack as a bonus action.
+You can use a weapon with the _light_ property as a spellcasting focus for your cleric spells. Additionally, if you take the Disengage or Dodge action, you may make a weapon attack or cast a cantrip as a bonus action.
 
 ### Divine Strike
 
