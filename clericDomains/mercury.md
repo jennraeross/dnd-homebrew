@@ -1,16 +1,16 @@
 ## Domain of Mercury
 
-God of Travelers, Messages, Thieves, and Luck
+God of Travel, Thievery, and Luck
 
 #### Domain of Mercury Features
 
-| Cleric Level | Features                                    |
-| :----------: | :------------------------------------------ |
-|     1st      | Domain Spells, Bonus Cantrip, Fleet of Foot |
-|     2nd      | Channel Divinity: _Escape Route_            |
-|     6th      | Swift Cantrip                               |
-|     8th      | Divine Strike                               |
-|     17th     | Improved Swift Cantrip                      |
+| Cleric Level | Features                              |
+| :----------: | :------------------------------------ |
+|     1st      | Domain Spells, Godspeed, Good Fortune |
+|     2nd      | Channel Divinity: _Escape Route_      |
+|     6th      | Swift Reflexes                        |
+|     8th      | Divine Strike                         |
+|     17th     | Luck of the Gods                      |
 
 ##### Domain of Mercury Spells
 
@@ -18,15 +18,16 @@ God of Travelers, Messages, Thieves, and Luck
 | :----------: | :---------------------------------------- |
 |     1st      | _Longstrider, Zephyr Strike_              |
 |     3rd      | _Pass Without Trace, Spider Climb_        |
-|     5th      | _Thunder Step, Blink_                     |
+|     5th      | _Blink, Phantom Steed_                    |
 |     7th      | _Freedom of Movement, Secret Chest_       |
 |     9th      | _Steel Wind Strike, Teleportation Circle_ |
+|     17th     | _Foresight_                               |
 
 ### Godspeed
 
 _1st-level Mercury Feature_
 
-When you take this  domain at 1st level, you gain proficiency in Acrobatics and Sleight of Hand. 
+When you take this domain at 1st level, you gain proficiency in Acrobatics and Sleight of Hand.
 
 Additionally, you can use a light melee weapon as a spellcasting focus.
 
@@ -34,7 +35,7 @@ Additionally, you can use a light melee weapon as a spellcasting focus.
 
 _1st-level Mercury feature_
 
-When you fail a saving throw or miss an attack roll, you may roll a d4 and add it to the total, possibly changing the outcome. You may use this feature a number of times equal to your proficiency bonus and regain all uses on a long rest.
+When you fail a saving throw or ability check, you may roll a d4 and add it to the total, possibly changing the outcome. You may use this feature a number of times equal to your proficiency bonus and regain all uses on a long rest.
 
 ### Channel Divinity: _Escape Route_
 
@@ -59,3 +60,5 @@ You gain the ability to infuse your weapon strikes with divine energy. Once on e
 _17th-level Mercury feature_
 
 Add _Foresight_ to your list of domain spells. Like your other domain spells, it is always prepared and counts as a cleric spell for you.
+
+Additionally, you now regain uses of your _Good Fortune_ feature on a short or long rest.
