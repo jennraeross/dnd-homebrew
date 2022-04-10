@@ -26,7 +26,9 @@ God of Travelers, Messages, Thieves, and Luck
 
 _1st-level Mercury Feature_
 
-When you take this  domain at 1st level, you gain proficiency in Acrobatics and Sleight of Hannd.
+When you take this  domain at 1st level, you gain proficiency in Acrobatics and Sleight of Hand. 
+
+Additionally, you can use a light melee weapon as a spellcasting focus.
 
 ### Good Fortune
 
@@ -44,7 +46,7 @@ You gain this additional Channel Divinity option. As a bonus action, you can ver
 
 _6th-level Mercury feature_
 
-You can use a weapon with the _light_ property as a spellcasting focus for your cleric spells. Additionally, if you take the Disengage or Dodge action, you may make a weapon attack or cast a cantrip as a bonus action.
+If you take the Disengage or Dodge action, as a bonus action you can cast a cantrip which has a casting time of one action or make a weapon attack. If said weapon attack is made with a light melee weapon you are holding in one hand, you can also make an attack with a different light melee weapon you are holding in your other hand. You do not add your ability modifier to the damage of the second attack.
 
 ### Divine Strike
 
@@ -56,4 +58,4 @@ You gain the ability to infuse your weapon strikes with divine energy. Once on e
 
 _17th-level Mercury feature_
 
-Add _Glibness_ and _Foresight_ to your list of domain spells.Like your other domain spells, they are always prepared and count as cleric spells for you.
+Add _Foresight_ to your list of domain spells. Like your other domain spells, it is always prepared and counts as a cleric spell for you.
