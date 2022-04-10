@@ -18,7 +18,7 @@ God of Travel, Thievery, and Luck
 | :----------: | :---------------------------------------- |
 |     1st      | _Longstrider, Zephyr Strike_              |
 |     3rd      | _Pass Without Trace, Spider Climb_        |
-|     5th      | _Blink, Phantom Steed_                    |
+|     5th      | _Blink, Spirit Shroud_                    |
 |     7th      | _Freedom of Movement, Secret Chest_       |
 |     9th      | _Steel Wind Strike, Teleportation Circle_ |
 |     17th     | _Foresight_                               |
