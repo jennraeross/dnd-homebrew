@@ -7,7 +7,7 @@
 |     2nd     | Bonus Proficiencies, Wild Retaliation |
 |     6th     | Companion Spirit, Enhanced Weaponry   |
 |    10th     | Pack Instincts                        |
-|    14th     |                                       |
+|    14th     | Hunting Party                         |
 
 ### Bonus Proficiencies
 
@@ -52,10 +52,10 @@ You have advantage on a weapon attack roll against a creature if your _Companion
 
 _14th-level Pack feature_
 
-Once per long rest, when you use your wildshape feature, you may cause a number of willing creatures within 20 feet of you equal to your Wisdom modifier to assume the shape of the same beast. They can stay in this form for a number of hours equal to half your druid level (rounded down), or until they fall unconscious, drop to 0 hit points, or die. 
+Once per long rest, when you use your wildshape feature, you may cause a number of willing creatures within 20 feet of you equal to your Wisdom modifier to assume the shape of the same beast. They can stay in this form for a number of hours equal to half your druid level (rounded down), or until they fall unconscious, drop to 0 hit points, or die.
 
-A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious. 
+A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.
 
-The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells. The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment. 
+The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells. The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment.
 
 Additionally, you have advantage on a weapon attack roll against a creature if an ally affected by this feature is within 5 feet of the creature and isn't incapacitated.
