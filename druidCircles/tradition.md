@@ -15,7 +15,7 @@ When you reach certain Druid levels, you gain access to the spells listed in the
 
 | Druid Level | Spells                                 |
 | :---------: | :------------------------------------- |
-|     2nd     | _Detect Magic, Find Familiar_          |
+|     2nd     | _Detect Magic, Mage Armor_          |
 |     3rd     | _Augury, Animal Messenger_             |
 |     5th     | _Tiny Hut, Meld into Stone_            |
 |     7th     | _Divination, Locate Creature_          |
@@ -31,7 +31,7 @@ Having spent years being trained in ritual magic, you know it by heart. You can 
 
 _6th-level Circle of Tradition feature_
 
-You may cast a spell with the ritual tag from your known spells without expending a spell slot, using its normal casting time. You may use this ability a number of times equal to your proficiency bonus and regain all uses upon completion of a long rest.
+You may cast a spell with the ritual tag from your known spells without expending a spell slot, using its normal casting time. You may use this ability a number of times equal to your Wisdom modifier and regain all uses upon completion of a long rest.
 
 ### Improvised Ritual
 
