@@ -36,3 +36,19 @@ You can cast any spell you know with the ritual tag as a ritual, even when you d
 Choose three rituals from the Wizard spell list for which you have appropriate spell slots and add them to your spells known. These spells can only be cast as rituals.
 
 Furthermore, if you find a ritual spell for which you have an appropriate spell slot to cast written down, such as in a tome, scroll, or wizard's spellbook, you may add that spell to your list of known spells. This process consumes the written spell. Spells learned this way can only be cast as rituals.
+
+### Improvised Ritual
+
+_10th-level Circle of the Arcane feature_
+
+You can cast a spell with the ritual tag, which you do not know but for which you have spell slots of the appropriate level, as a ritual. Casting a spell this way consumes a spell slot, but still takes the extra time needed for a ritual casting.
+
+You can use this ability a number of times equal to your proficiency bonus, and regain all uses upon completion of a long rest.
+
+### Primal Wish
+
+_14th-level Circle of the Arcane feature_
+
+As an action, you can cast a spell from the Druid Spell list of 7th level or lower. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect.
+
+Once you use this ability, you may not use it again until you complete 1d4 long rests.
