@@ -16,20 +16,20 @@ God of Travel, Thievery, and Luck
 
 | Cleric Level | Spells                                    |
 | :----------: | :---------------------------------------- |
-|     1st      | _Longstrider, Zephyr Strike_              |
+|     1st      | _Longstrider, Expeditious Retreat_        |
 |     3rd      | _Pass Without Trace, Spider Climb_        |
-|     5th      | _Blink, Spirit Shroud_                    |
+|     5th      | _Blink, Phantom Steed_                    |
 |     7th      | _Freedom of Movement, Secret Chest_       |
-|     9th      | _Steel Wind Strike, Teleportation Circle_ |
+|     9th      | _Teleportation Circle, Tree Stride_       |
 |     17th     | _Foresight_                               |
 
 ### Godspeed
 
 _1st-level Mercury Feature_
 
-When you take this domain at 1st level, you gain proficiency in Acrobatics and Sleight of Hand.
+When you take this domain at 1st level, you gain proficiency in Acrobatics and thieves tools.
 
-Additionally, you can use a light melee weapon as a spellcasting focus.
+Additionally, you can perform the somatic components of spells even when you have a light melee weapon in both hands. 
 
 ### Good Fortune
 
@@ -47,7 +47,9 @@ You gain this additional Channel Divinity option. As a bonus action, you can ver
 
 _6th-level Mercury feature_
 
-If you take the Disengage or Dodge action, as a bonus action you can cast a cantrip which has a casting time of one action or make a weapon attack. If said weapon attack is made with a light melee weapon you are holding in one hand, you can also make an attack with a different light melee weapon you are holding in your other hand. You do not add your ability modifier to the damage of the second attack.
+When you cast a cantrip with a casting time of one action or make a weapon attack, you can take the Disengage or Dodge action as a bonus action.
+
+Additionally, when you make a weapon attack with a light melee weapon you are holding in one hand, you can also make an attack with a different light melee weapon you are holding in your other hand. You do not add your ability modifier to the damage of the second attack.
 
 ### Divine Strike
 
