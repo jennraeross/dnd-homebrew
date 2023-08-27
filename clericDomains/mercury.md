@@ -35,7 +35,7 @@ Additionally, you can perform the somatic components of spells even when you hav
 
 _1st-level Mercury feature_
 
-When you fail a saving throw or ability check, you may roll a d4 and add it to the total, possibly changing the outcome. You may use this feature a number of times equal to your proficiency bonus and regain all uses on a long rest.
+When you fail a saving throw or ability check and you are not under any other effect which boosts your roll, you may roll a d4 and add it to the total, possibly changing the outcome. You may use this feature a number of times equal to your proficiency bonus and regain all uses on a long rest.
 
 ### Channel Divinity: _Escape Route_
 
