@@ -47,7 +47,7 @@ You gain this additional Channel Divinity option. As a bonus action, you can ver
 
 _6th-level Mercury feature_
 
-When you cast a cantrip with a casting time of one action or make a weapon attack, you can take the Disengage or Dodge action as a bonus action.
+When you cast a cantrip with a casting time of one action or make a weapon attack, you can take the Dash or Disengage action as a bonus action.
 
 Additionally, when you make a weapon attack with a light melee weapon you are holding in one hand, you can also make an attack with a different light melee weapon you are holding in your other hand. You do not add your ability modifier to the damage of the second attack.
 
