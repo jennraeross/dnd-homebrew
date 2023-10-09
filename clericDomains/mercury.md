@@ -1,6 +1,8 @@
 ## Domain of Mercury
 
-God of Travel, Thievery, and Luck
+### God of Travel, Thievery, and Luck
+
+A deity with a deceptively wide variety of worshippers, Mercury is honored by both merchants and traders and by the thieves and tricksters who would steal from them alike. Where the crossroads of travel, trade, and trickery meet Mercury will be found. Mercury calls his due from both, profiting from the exchange, in an intriguing mirror of his follower's own methods of material gain. 
 
 #### Domain of Mercury Features
 
@@ -16,7 +18,7 @@ God of Travel, Thievery, and Luck
 
 | Cleric Level | Spells                                    |
 | :----------: | :---------------------------------------- |
-|     1st      | _Longstrider, Expeditious Retreat_        |
+|     1st      | _Expeditious Retreat, Disguise Self_      |
 |     3rd      | _Pass Without Trace, Spider Climb_        |
 |     5th      | _Blink, Phantom Steed_                    |
 |     7th      | _Freedom of Movement, Secret Chest_       |
@@ -27,13 +29,15 @@ God of Travel, Thievery, and Luck
 
 _1st-level Mercury Feature_
 
-When you take this domain at 1st level, you gain proficiency in Acrobatics and thieves tools.
+Worshippers of Mercury frequently travel the road while plying their trade. This experience lends itself to swift movement and a steady foot, as well as one's tools of trade.
 
-Additionally, you can perform the somatic components of spells even when you have a light melee weapon in both hands. 
+When you take this domain, you gain proficiency in Acrobatics and either thieves tools or land vehicles.  
 
 ### Good Fortune
 
 _1st-level Mercury feature_
+
+Travellers without luck die swiftly. Fortunately, you are not among that number.
 
 When you fail a saving throw or ability check and you are not under any other effect which boosts your roll, you may roll a d4 and add it to the total, possibly changing the outcome. You may use this feature a number of times equal to your proficiency bonus and regain all uses on a long rest.
 
@@ -41,15 +45,13 @@ When you fail a saving throw or ability check and you are not under any other ef
 
 _2nd-level Mercury feature_
 
-You gain this additional Channel Divinity option. As a bonus action, you can verbally call upon divine power to escape your enemies. When you do so, you can teleport up to 30 feet to an unoccupied space that you can see.
+You gain this additional Channel Divinity option. As a bonus action, you can verbally call upon divine power to escape your enemies. When you do so, you can teleport up to 30 feet to an unoccupied space that you can see. 
 
 ### Swift Reflexes
 
 _6th-level Mercury feature_
 
-When you cast a cantrip with a casting time of one action or make a weapon attack, you can take the Dash or Disengage action as a bonus action.
-
-Additionally, when you make a weapon attack with a light melee weapon you are holding in one hand, you can also make an attack with a different light melee weapon you are holding in your other hand. You do not add your ability modifier to the damage of the second attack.
+You've become very well practiced in avoiding danger and scrambling out of the way when expedient. When you cast a cantrip with a casting time of one action or make a weapon attack, you can take the Dash or Disengage action as a bonus action.
 
 ### Divine Strike
 
@@ -61,6 +63,6 @@ You gain the ability to infuse your weapon strikes with divine energy. Once on e
 
 _17th-level Mercury feature_
 
-Add _Foresight_ to your list of domain spells. Like your other domain spells, it is always prepared and counts as a cleric spell for you.
+Once per day before you roll for an ability check or saving throw, you can choose for your roll to be a critical success in place of rolling. You gain an additional use of this ability each time you critically fail an ability check or saving throw.
 
 Additionally, you now regain uses of your _Good Fortune_ feature on a short or long rest.
